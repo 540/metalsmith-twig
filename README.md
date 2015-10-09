@@ -3,6 +3,8 @@ metalsmith-twig [![Build Status](https://travis-ci.org/PKuebler/metalsmith-twig.
 
 ## A [metalsmith](http://www.metalsmith.io/) Plugin for [Twig](http://twig.sensiolabs.org/) based on [justjohn/twig.js](https://github.com/justjohn/twig.js).
 
+## Forked by 540 to use unmerged twig cache fix.
+
 # Install
 
 ```bash

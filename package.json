@@ -1,8 +1,8 @@
 {
-  "name": "metalsmith-twig",
+  "name": "metalsmith-twig-540",
   "author": "Philipp Kuebler (http://pkuebler.de)",
   "description": "A metalsmith plugin for [twig.js](https://github.com/justjohn/twig.js).",
-  "repository": "git@github.com:PKuebler/metalsmith-twig.git",
+  "repository": "git@github.com:540/metalsmith-twig.git",
   "version": "1.0.2",
   "license": "MIT",
   "main": "lib/index.js",
